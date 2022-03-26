@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklit_wiki=self.webpackChunklit_wiki||[]).push([[195],{9294:function(t,e,i){i.r(e),i.d(e,{default:function(){return o}});var n=i(7294),l=i(2600),r=(i(9960),i(2263));function o(){var t=(0,r.Z)().siteConfig;return n.createElement(l.Z,{title:"Hello from "+t.title,description:"Description will go into a meta tag in <head />"},"Hello, World")}}}]);
