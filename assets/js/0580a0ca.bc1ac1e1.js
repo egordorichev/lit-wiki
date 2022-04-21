@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklit_wiki=self.webpackChunklit_wiki||[]).push([[847],{5745:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-pages","id":"default"}}')}}]);
